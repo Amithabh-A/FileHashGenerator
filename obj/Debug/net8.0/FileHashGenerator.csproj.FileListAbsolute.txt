@@ -1,0 +1,14 @@
+/Users/amithabh_a/Projects/FileHashGenerator/bin/Debug/net8.0/FileHashGenerator
+/Users/amithabh_a/Projects/FileHashGenerator/bin/Debug/net8.0/FileHashGenerator.deps.json
+/Users/amithabh_a/Projects/FileHashGenerator/bin/Debug/net8.0/FileHashGenerator.runtimeconfig.json
+/Users/amithabh_a/Projects/FileHashGenerator/bin/Debug/net8.0/FileHashGenerator.dll
+/Users/amithabh_a/Projects/FileHashGenerator/bin/Debug/net8.0/FileHashGenerator.pdb
+/Users/amithabh_a/Projects/FileHashGenerator/obj/Debug/net8.0/FileHashGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amithabh_a/Projects/FileHashGenerator/obj/Debug/net8.0/FileHashGenerator.AssemblyInfoInputs.cache
+/Users/amithabh_a/Projects/FileHashGenerator/obj/Debug/net8.0/FileHashGenerator.AssemblyInfo.cs
+/Users/amithabh_a/Projects/FileHashGenerator/obj/Debug/net8.0/FileHashGenerator.csproj.CoreCompileInputs.cache
+/Users/amithabh_a/Projects/FileHashGenerator/obj/Debug/net8.0/FileHashGenerator.dll
+/Users/amithabh_a/Projects/FileHashGenerator/obj/Debug/net8.0/refint/FileHashGenerator.dll
+/Users/amithabh_a/Projects/FileHashGenerator/obj/Debug/net8.0/FileHashGenerator.pdb
+/Users/amithabh_a/Projects/FileHashGenerator/obj/Debug/net8.0/FileHashGenerator.genruntimeconfig.cache
+/Users/amithabh_a/Projects/FileHashGenerator/obj/Debug/net8.0/ref/FileHashGenerator.dll
