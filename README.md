@@ -12,3 +12,5 @@ For Analyser Projects
     dotnet build
     dotnet run <directory path>
     ```
+
+nb : contains crap
