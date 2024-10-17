@@ -13,4 +13,5 @@ For Analyser Projects
     dotnet run <directory path>
     ```
 
-nb : contains crap
+## Results
+The application will print hash values of all files in the directory
